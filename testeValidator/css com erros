@@ -69,7 +69,7 @@ header p{font-size: 15px;}
 .ItemPrimari{
     font-family: 'Aboreto', cursive;
     color: aliceblue;
-    margin: 5px;
+    margin: 5;
     text-align: center;
 }
 .containerReserv{
